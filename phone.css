@@ -1,17 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Audiowide&family=Kanit:wght@300;400&family=Pacifico&family=Poppins:wght@300&family=Proza+Libre&family=Roboto:wght@100&family=Stick+No+Bills:wght@500;600&family=Young+Serif&display=swap');
+
 section {
     max-width: 500px;
     min-height: 100vh;
     overflow: hidden;
+}
+.navbar span{
+    font-family: 'Poppins', sans-serif;
 }
 .maindiv {
     width: 90%;
 }
 .subdiv1 span {
     font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif;
 }
 .subdiv1 p {
     font-size: 1.5rem;
-    
+    font-family: 'Poppins', sans-serif;
 }
 .subdiv1 .region{
     font-size: 0.9rem;
@@ -28,8 +34,11 @@ section {
     width: 25px;
 }
 .subdiv3 .weather span {
-    font-size: 12px;
+    font-size: 14px;
 }
 .subdiv3 .weather {
     width: 109%;
+}
+footer {
+    font-family: 'Poppins', sans-serif;
 }
