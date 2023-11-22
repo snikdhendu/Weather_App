@@ -39,6 +39,10 @@ section {
 .subdiv3 .weather {
     width: 109%;
 }
+.condition span{
+    font-size:28px;
+    font-weight:250px;
+}
 footer {
     font-family: 'Poppins', sans-serif;
 }
