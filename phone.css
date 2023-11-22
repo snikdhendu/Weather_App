@@ -1,0 +1,35 @@
+section {
+    max-width: 500px;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.maindiv {
+    width: 90%;
+}
+.subdiv1 span {
+    font-size: 1.8rem;
+}
+.subdiv1 p {
+    font-size: 1.5rem;
+    
+}
+.subdiv1 .region{
+    font-size: 0.9rem;
+}
+.subdiv2 span {
+    font-size: 29px;
+}
+.subdiv3 img {
+    height: 70px;
+    width: 70px;
+}
+.subdiv3 .weather img {
+    height: 25px;
+    width: 25px;
+}
+.subdiv3 .weather span {
+    font-size: 12px;
+}
+.subdiv3 .weather {
+    width: 109%;
+}
