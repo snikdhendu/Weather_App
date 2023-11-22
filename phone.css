@@ -43,6 +43,9 @@ section {
     font-size:28px;
     font-weight:250px;
 }
+.subdiv3 .weather .humidity {
+    margin-left: 8px;
+}
 footer {
     font-family: 'Poppins', sans-serif;
 }
