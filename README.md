@@ -10,7 +10,6 @@ This Weather App allows users to check the current weather conditions for differ
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Features
@@ -32,9 +31,6 @@ No installation is required. Simply open this [Weather App](https://snik-weather
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Made with ❤️ by [Snikdhendu Pramanik](https://snikdhendu-pramanik.vercel.app/)
